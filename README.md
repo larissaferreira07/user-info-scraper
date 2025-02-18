@@ -13,7 +13,7 @@ Este projeto fornece uma API para obter informações básicas sobre um usuário
 1. Clone este repositório:
    ```sh
    git clone https://github.com/larissaferreira07/user-info-scraper.git
-   cd instagram-user-info
+   cd user-info-scraper
    ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
